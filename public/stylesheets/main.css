@@ -1,0 +1,12 @@
+.figure-caption {
+	padding-left: 5px;
+}
+.figure{
+	margin-top: 20px;
+}
+#img{
+	padding: 0 auto;
+}
+#delete-form{
+	display: inline-block;
+}
